@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/media/DATA/Software/Libraries/sphinx4-5prealpha-src/sphinx4-core-5prealpha.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/Software/Libraries/sphinx4-5prealpha-src/sphinx4-data-5prealpha.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/Software/Libraries/sphinx4-5prealpha-src/sphinx4-samples-5prealpha.jar" sourcepath="/media/DATA/Software/Libraries/sphinx4-5prealpha-src/sphinx4-samples/src/main/java/edu/cmu/sphinx/demo/speakerid"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
